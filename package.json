@@ -21,5 +21,6 @@
   "homepage": "https://github.com/cchelsis/devcamp-PackageProject#readme",
   "dependencies": {
     "moment": "^2.22.2"
-  }
+  },
+  "devDependencies": {}
 }
